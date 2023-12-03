@@ -1,4 +1,6 @@
-friends = ['Jen', 'John', 'Mike']
+friends = ['Jen', 'John', 'Mike', 'Jennifer', 'Eddison']
 
 for friend in friends:
     print(friend.name)
+
+
